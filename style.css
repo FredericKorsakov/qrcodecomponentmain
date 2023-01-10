@@ -31,12 +31,12 @@ main {
 }
 
 main img {
-    width: 100%;
+    max-width: 100%;
     border-radius: 15px;
 }
 
 main h1 {
-   font-size: 25px;
+    font-size: 25px;
     color: hsl(218, 44%, 22%);
     font-weight: 700;
     padding: 1rem;
